@@ -1,0 +1,185 @@
+// Fake get project stories response
+
+[
+    {
+        "kind": "story",
+        "id": 142784907,
+        "created_at": "2017-03-30T16:16:42Z",
+        "updated_at": "2017-08-01T14:14:59Z",
+        "story_type": "release",
+        "name": "Stretch Goals v",
+        "current_state": "unscheduled",
+        "requested_by_id": 1693946,
+        "url": "https://www.pivotaltracker.com/story/show/142784907",
+        "project_id": 1866699,
+        "owner_ids": [],
+        "labels": []
+    },
+    {
+        "kind": "story",
+        "id": 145275543,
+        "created_at": "2017-05-11T14:12:25Z",
+        "updated_at": "2017-07-11T14:52:11Z",
+        "story_type": "release",
+        "name": "Planning Candidates v",
+        "current_state": "unscheduled",
+        "requested_by_id": 1693946,
+        "url": "https://www.pivotaltracker.com/story/show/145275543",
+        "project_id": 1866699,
+        "owner_ids": [],
+        "labels": []
+    },
+    {
+        "kind": "story",
+        "id": 150005923,
+        "created_at": "2017-08-07T13:22:42Z",
+        "updated_at": "2017-08-10T12:59:49Z",
+        "estimate": 5,
+        "story_type": "feature",
+        "name": "[Developer] can do some task x",
+        "description": "User story: #147685151\nAs a user I want to be able to do x",
+        "current_state": "unscheduled",
+        "requested_by_id": 2145751,
+        "url": "https://www.pivotaltracker.com/story/show/150005923",
+        "project_id": 1866699,
+        "owner_ids": [
+            2145751,
+            2870339
+        ],
+        "labels": [
+            {
+                "id": 18890255,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "_tp_developer_auth",
+                "created_at": "2017-07-19T08:30:50Z",
+                "updated_at": "2017-07-19T08:30:50Z"
+            },
+            {
+                "id": 18656409,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "_tp_mvp",
+                "created_at": "2017-06-15T15:15:30Z",
+                "updated_at": "2017-06-15T15:15:30Z"
+            },
+            {
+                "id": 18089235,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "/test_product",
+                "created_at": "2017-03-30T08:16:50Z",
+                "updated_at": "2017-03-30T08:16:50Z"
+            }
+        ],
+        "owned_by_id": 2145751
+    },
+    {
+        "kind": "story",
+        "id": 147690717,
+        "created_at": "2017-06-22T15:11:17Z",
+        "updated_at": "2017-08-10T16:14:06Z",
+        "estimate": 5,
+        "story_type": "feature",
+        "name": "[UserType] can see a list of x",
+        "description": "User story: #145929951\n\n--\n\n#",
+        "current_state": "unscheduled",
+        "requested_by_id": 1693946,
+        "url": "https://www.pivotaltracker.com/story/show/147690717",
+        "project_id": 1866699,
+        "owner_ids": [
+            2187411
+        ],
+        "labels": [
+            {
+                "id": 18555319,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "_tp_some_feature",
+                "created_at": "2017-06-01T14:29:46Z",
+                "updated_at": "2017-06-01T14:29:46Z"
+            },
+            {
+                "id": 18656409,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "_tp_mvp",
+                "created_at": "2017-06-15T15:15:30Z",
+                "updated_at": "2017-06-15T15:15:30Z"
+            },
+            {
+                "id": 18089235,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "/test_product",
+                "created_at": "2017-03-30T08:16:50Z",
+                "updated_at": "2017-03-30T08:16:50Z"
+            }
+        ],
+        "owned_by_id": 2187411
+    },
+    {
+        "kind": "story",
+        "id": 150127686,
+        "created_at": "2017-08-10T10:37:24Z",
+        "updated_at": "2017-08-10T10:45:03Z",
+        "story_type": "bug",
+        "name": "Thing y is broken",
+        "description": "Thing y breaks.\n",
+        "current_state": "unscheduled",
+        "requested_by_id": 2200675,
+        "url": "https://www.pivotaltracker.com/story/show/150127686",
+        "project_id": 1866699,
+        "owner_ids": [],
+        "labels": [
+            {
+                "id": 18089235,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "/test_product",
+                "created_at": "2017-03-30T08:16:50Z",
+                "updated_at": "2017-03-30T08:16:50Z"
+            }
+        ]
+    },
+    {
+        "kind": "story",
+        "id": 150045807,
+        "created_at": "2017-08-08T14:21:08Z",
+        "updated_at": "2017-08-10T12:38:54Z",
+        "story_type": "chore",
+        "name": "Thing z needs doing",
+        "description": "Do thing z",
+        "current_state": "unscheduled",
+        "requested_by_id": 2919029,
+        "url": "https://www.pivotaltracker.com/story/show/150045807",
+        "project_id": 1866699,
+        "owner_ids": [],
+        "labels": [
+            {
+                "id": 18656409,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "_tp_mvp",
+                "created_at": "2017-06-15T15:15:30Z",
+                "updated_at": "2017-06-15T15:15:30Z"
+            },
+            {
+                "id": 18089235,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "/test_product",
+                "created_at": "2017-03-30T08:16:50Z",
+                "updated_at": "2017-03-30T08:16:50Z"
+            },
+            {
+                "id": 19012091,
+                "project_id": 1866699,
+                "kind": "label",
+                "name": "test_planning",
+                "created_at": "2017-08-10T08:29:21Z",
+                "updated_at": "2017-08-10T08:29:21Z"
+            }
+        ]
+    },
+]

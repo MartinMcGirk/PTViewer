@@ -1,0 +1,19 @@
+{
+  "name": "pivotal-tracker-viewer",
+  "version": "1.0.0",
+  "description": "A way of viewing PT boards without feeling like your eyes are being assaulted",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0",
+    "request": "^2.81.0",
+    "should": "^11.2.1",
+    "sinon": "^3.2.0"
+  }
+}
